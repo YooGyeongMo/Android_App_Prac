@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.gmlab.kotlin_calculator_prac"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.gmlab.kotlin_calculator_prac"
