@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.gmlab.my_app_prac"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.gmlab.my_app_prac"
